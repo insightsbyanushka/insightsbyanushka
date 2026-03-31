@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Anushka 👋
 
-<!--
-**insightsbyanushka/insightsbyanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student  
+📊 Aspiring Data Analyst  
+💻 Skills: Python, SQL, Excel, Power BI  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Sales Data Analysis
+- Retail Dashboard
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- LinkedIn: [Connect with me on linkedIn](https://www.linkedin.com/in/anushka-yadav-33339833a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: anushkayadav9616@gmail.com
